@@ -25,7 +25,7 @@ browserPromise.then(function(browserobj){
     let emailtype = page.type("input[id='input-1']", email, {delay: 50});
     return emailtype;
 }).then(function(){
-    let passwordtype= page.type("input[id='input-2']", password, {delay: 50});
+    let passwordtype= page.type("input[id='input-12']", password, {delay: 50});
     return passwordtype;
 }).then(function (){
     let loginclicked= page.click("button[data-analytics='LoginPassword']", {delay: 50});

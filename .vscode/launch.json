@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ArrayL1.L001.Main",
+            "projectName": "dsa code_9bc8d040"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SortingL2.L001.Main",
+            "projectName": "dsa code_9bc8d040"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TestspringApplication<testspring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.test.testspring.TestspringApplication",
+            "projectName": "testspring",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

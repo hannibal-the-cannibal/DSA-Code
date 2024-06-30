@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Shreesh",
+        "last Name": "Bhardwaj",
+        "is hero": true,
+        "friends": [
+            "Manik",
+            "hem"
+        ],
+        "age": 27,
+        "address": {
+            "city": "Bikaner",
+            "state": "rajasthan"
+        }
+    },
+    {
+        "name": "Archana",
+        "last Name": "Bhardwaj",
+        "is hero": true,
+        "friends": [
+            "Manik",
+            "hem"
+        ],
+        "age": 27,
+        "address": {
+            "city": "Bikaner",
+            "state": "rajasthan"
+        }
+    },
+    {
+        "name": "Anil",
+        "last Name": "Bhardwaj",
+        "is hero": true,
+        "friends": [
+            "Manik",
+            "hem"
+        ],
+        "age": 27,
+        "address": {
+            "city": "Bikaner",
+            "state": "rajasthan"
+        }
+    },
+    {
+        "name": "Anil",
+        "last Name": "Bhardwaj",
+        "is hero": true,
+        "friends": [
+            "Manik",
+            "hem"
+        ],
+        "age": 27,
+        "address": {
+            "city": "Bikaner",
+            "state": "rajasthan"
+        }
+    }
+]

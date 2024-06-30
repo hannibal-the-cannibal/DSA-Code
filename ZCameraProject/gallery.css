@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.back{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    background-color: #84817a;
+    color: #f7f1e3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 5rem;
+    right: 4rem;
+}
+.back:hover{
+    cursor: pointer;
+}
+
+.gallery-cont{
+    height: 100vh;
+    width: 100vw;
+    background-color: #f7f1e3;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.media-cont{
+    height: 15rem;
+    width: 15rem;
+    border: 4px solid #84817a;
+    margin: 2rem;
+}
+.media>*{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+.media{
+    height: calc( 100% - 4rem );
+   
+    
+}
+.action-btn{
+    color: #f7f1e3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.action-btn:hover{
+    cursor: pointer;
+}
+.download{
+    height: 2rem;
+    background-color: #a5b1c2
+}
+.delete{
+    height: 2rem;
+    background-color:#ff5252;
+}

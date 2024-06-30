@@ -1,0 +1,19 @@
+{
+  "name": "browserautomation",
+  "version": "1.0.0",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cosmiconfig": "^8.3.6",
+    "progress": "^2.0.3",
+    "route": "^0.2.5",
+    "socks": "^2.7.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
